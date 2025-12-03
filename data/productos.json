@@ -1,6 +1,26 @@
 [
-    {"id": "1", "nombre": "Producto 1", "precio": 6650000, "img": "img/MCProM4.png"},
-    {"id": "2", "nombre": "Producto 2", "precio": 4425579, "img": "img/IpadPro.jpg"},
-    {"id": "3", "nombre": "Producto 3", "precio": 2949999, "img": "img/17ProM.jpg"},
-    {"id": "4", "nombre": "Producto 4", "precio": 601299, "img": "img/AirpPro3.png"}
+  {
+    "id": "1",
+    "nombre": "Producto 1",
+    "precio": 6650000,
+    "img": "img/MCProM4.png"
+  },
+  {
+    "id": "2",
+    "nombre": "Producto 2",
+    "precio": 4425579,
+    "img": "img/IpadPro.jpg"
+  },
+  {
+    "id": "3",
+    "nombre": "Producto 3",
+    "precio": 2949999,
+    "img": "img/17ProM.jpg"
+  },
+  {
+    "id": "4",
+    "nombre": "Producto 4",
+    "precio": 601299,
+    "img": "img/AirpPro3.png"
+  }
 ]

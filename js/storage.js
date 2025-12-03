@@ -1,6 +1,6 @@
 const KEY = "carrito";
 
-export const guardarCarrito = () => {
+export const guardarCarrito = (carrito) => {
   localStorage.setItem(KEY, JSON.stringify(carrito));
 };
 
@@ -8,6 +8,6 @@ export const obtenerCarrito = () => {
   return JSON.parse(localStorage.getItem(KEY)) || [];
 };
 
-export const vaciarCarrito = () => {
+export const vaciarCarritoStorage = () => {
   localStorage.removeItem(KEY);
 };
